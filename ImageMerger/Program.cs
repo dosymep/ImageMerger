@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ImageMerger {
-    class Program {
-        static void Main(string[] args) {
+    internal class Program {
+        public static void Main(string[] args) {
         }
     }
 }
